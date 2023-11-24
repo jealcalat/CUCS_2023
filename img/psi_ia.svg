@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16, custom)"
+   sodipodi:docname="psi_ia.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="1.8423779"
+     inkscape:cx="280.07283"
+     inkscape:cy="109.9123"
+     inkscape:window-width="1520"
+     inkscape:window-height="1049"
+     inkscape:window-x="7"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="54.632494,284.40813"
+       orientation="0,-1"
+       id="guide2"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#c5c6c1;fill-opacity:1;stroke-width:0.428494;stroke-opacity:0.793511"
+       id="rect1"
+       width="30.174709"
+       height="13.710554"
+       x="34.85635"
+       y="30.49394"
+       ry="0.54176933"
+       inkscape:export-filename="psi_to_ia.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333333px;line-height:0.1;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.705001;stroke-opacity:0.793511"
+       x="49.984951"
+       y="38.035198"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold';stroke-width:0.705;font-size:4.23333333px"
+         x="49.984951"
+         y="38.035198">Psicología</tspan></text>
+    <rect
+       style="fill:#c5c6c1;fill-opacity:1;stroke-width:0.428494;stroke-opacity:0.793511"
+       id="rect1-6"
+       width="30.174709"
+       height="13.710554"
+       x="84.746315"
+       y="30.493999"
+       ry="0.54176933" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.705001;stroke-opacity:0.793511"
+       x="99.874916"
+       y="36.976597"
+       id="text1-2"><tspan
+         sodipodi:role="line"
+         id="tspan1-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold';stroke-width:0.705"
+         x="99.874916"
+         y="36.976597">Inteligencia</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold';stroke-width:0.705"
+         x="99.874916"
+         y="41.209927"
+         id="tspan2">artificial</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.52;stroke-dasharray:none;stroke-opacity:0.793511;marker-end:url(#ConcaveTriangle)"
+       d="m 66.287,37.355408 12.847337,-0.103451 0.612652,-0.0049"
+       id="path2"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="fill:#c5c6c1;fill-opacity:1;stroke-width:0.428494;stroke-opacity:0.793511"
+       id="rect1-0"
+       width="30.174709"
+       height="13.710554"
+       x="34.712666"
+       y="51.489979"
+       ry="0.54176933"
+       inkscape:export-filename="ia_to_psi.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:0.1;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.705001;stroke-opacity:0.793511"
+       x="49.841263"
+       y="59.031235"
+       id="text1-23"><tspan
+         sodipodi:role="line"
+         id="tspan1-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold';stroke-width:0.705"
+         x="49.841263"
+         y="59.031235">Psicología</tspan></text>
+    <rect
+       style="fill:#c5c6c1;fill-opacity:1;stroke-width:0.428494;stroke-opacity:0.793511"
+       id="rect1-6-5"
+       width="30.174709"
+       height="13.710554"
+       x="84.602623"
+       y="51.490036"
+       ry="0.54176933" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.705001;stroke-opacity:0.793511"
+       x="99.731239"
+       y="57.972633"
+       id="text1-2-9"><tspan
+         sodipodi:role="line"
+         id="tspan1-6-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold';stroke-width:0.705"
+         x="99.731239"
+         y="57.972633">Inteligencia</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold';stroke-width:0.705"
+         x="99.731239"
+         y="62.205963"
+         id="tspan2-2">artificial</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.52;stroke-dasharray:none;stroke-opacity:0.793511;marker-start:url(#ConcaveTriangle)"
+       d="m 68.789151,58.351446 12.847341,-0.103451 0.61265,-0.0049"
+       id="path2-8"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>
